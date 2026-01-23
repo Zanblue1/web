@@ -1,0 +1,19 @@
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.listesansrien {
+    list-style: none;
+}
+.titre {
+    line-height: 0px;
+}
+#bigger {
+    font-size: larger;
+    font-weight: 500;
+}
+.surlignageJaune {
+    background-color: yellow;
+}
+h2 {
+    line-height: normal;
+}
